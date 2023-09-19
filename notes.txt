@@ -1,0 +1,8 @@
+-using middlewares.
+-studied why body.parser was not working.
+-sending data to backend server.
+-http response status code. we can manupulate and change too.
+-
+
+
+
